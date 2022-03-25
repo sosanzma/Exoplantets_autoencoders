@@ -1,5 +1,5 @@
 # Exoplantets_autoencoders
-Exoplantets anommally detection with autoencoders
+Exoplantets anommally detection with autoencoders with ~99% accuracy
 
 
 ## Data set
@@ -10,6 +10,6 @@ The aim is to detect which planets are habitable versus the vast majority of pla
 
 ## Structures 
 To do so, 3 structures are presented:
-1.- PCA + autoencoder. (98% accuracy) 
+1.- PCA + autoencoder. (99% accuracy) 
 2.- deep autoencoder .(96% accuracy)
 3.- autoencoder (dimension reduction) autoencoder (anomaly detection)
